@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuan-Hao Cheng</h1>
-<h3 align="center">Seeking for Machine Learning Engineer & Software Engineer position</h3>
+<h3 align="center">Seeking for Software Engineer position</h3>
 
 - 📫 How to reach me **yhcheng1999@gmail.com**
 
