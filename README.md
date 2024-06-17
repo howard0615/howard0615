@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuan-Hao Cheng</h1>
-<h3 align="center">Seeking for Software Engineer position</h3>
+<h3 align="center">Seeking for Software / Firmware Engineer position</h3>
 
 
 <h3 align="left">Connect with me:</h3>
